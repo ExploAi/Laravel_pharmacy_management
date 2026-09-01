@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   
 ----------------------
-> >  <br/> &copy; *by ExploAi* <br/>  
+> >  <br/> &copy; *by METE Research* <br/>  
 ----------------------
 
 <details>
@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![Stargazers repo roster for @ExploAi/Laravel_pharmacy_management](http://reporoster.com/stars/dark/ExploAi/Laravel_pharmacy_management)](https://github.com/ExploAi/Laravel_pharmacy_management/stargazers)
+[![Stargazers repo roster for @METE Research/Laravel_pharmacy_management](http://reporoster.com/stars/dark/METEResearch/Laravel_pharmacy_management)](https://github.com/METEResearch/Laravel_pharmacy_management/stargazers)
 
 
 
@@ -91,14 +91,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center" >
 
-[![Forkers repo roster for @ExploAi/Laravel_pharmacy_management](http://reporoster.com/forks/dark/ExploAi/Laravel_pharmacy_management)](https://github.com/ExploAi/Laravel_pharmacy_management/network/members)
+[![Forkers repo roster for @METE Research/Laravel_pharmacy_management](http://reporoster.com/forks/dark/METEResearch/Laravel_pharmacy_management)](https://github.com/METEResearch/Laravel_pharmacy_management/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://contrib.rocks/image?repo=ExploAi/Laravel_pharmacy_management"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://contrib.rocks/image?repo=METEResearch/Laravel_pharmacy_management"/>
 </a>
 
 
@@ -107,30 +107,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ExploAi/Laravel_pharmacy_management?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/METEResearch/Laravel_pharmacy_management?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/ExploAi/Laravel_pharmacy_management?style=social)
+![GitHub License](https://img.shields.io/github/license/METEResearch/Laravel_pharmacy_management?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/ExploAi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ExploAi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/METE Research"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=METE Research&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 
